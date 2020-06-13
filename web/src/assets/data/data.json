@@ -58,5 +58,119 @@
             "name": "html5", 
             "img": "./assets/img/technologies/html.png"
         }
-    ]
+    ],
+    "meetings": {
+        "winter": [
+            {
+                "id": 1, 
+                "name": "Stretnutie 1", 
+                "date": "08.10.2019",
+                "file": "./assets/meetings/Zapisnica_c1.pdf"
+            },
+            {
+                "id": 2, 
+                "name": "Stretnutie 2", 
+                "date": "14.10.2019",
+                "file": "./assets/meetings/Zapisnica_c2.pdf"
+            },
+            {
+                "id": 3, 
+                "name": "Stretnutie 3", 
+                "date": "24.10.2019",
+                "file": "./assets/meetings/Zapisnica_c3.pdf"
+            },
+            {
+                "id": 4, 
+                "name": "Stretnutie 4", 
+                "date": "29.10.2019",
+                "file": "./assets/meetings/Zapisnica_c4.pdf"
+            },
+            {
+                "id": 5, 
+                "name": "Stretnutie 5", 
+                "date": "05.11.2019",
+                "file": "./assets/meetings/Zapisnica_c5.pdf"
+            },
+            {
+                "id": 6, 
+                "name": "Stretnutie 6", 
+                "date": "12.11.2019",
+                "file": "./assets/meetings/Zapisnica_c6.pdf"
+            },
+            {
+                "id": 7, 
+                "name": "Stretnutie 7", 
+                "date": "14.11.2019",
+                "file": "./assets/meetings/Zapisnica_c7.pdf"
+            },
+            {
+                "id": 8, 
+                "name": "Stretnutie 8", 
+                "date": "19.11.2019",
+                "file": "./assets/meetings/Zapisnica_c8.pdf"
+            },
+            {
+                "id": 9, 
+                "name": "Stretnutie 9", 
+                "date": "21.11.2019",
+                "file": "./assets/meetings/Zapisnica_c9.pdf"
+            },
+            {
+                "id": 10, 
+                "name": "Stretnutie 10", 
+                "date": "26.11.2019",
+                "file": "./assets/meetings/Zapisnica_c10.pdf"
+            }
+        ],
+        "summer": [
+            {
+                "id": 1, 
+                "name": "Stretnutie 11", 
+                "date": "01.01.2020",
+                "file": "./assets/meetings/Zapisnica_c1.pdf"
+            },
+            {
+                "id": 2, 
+                "name": "Stretnutie 12", 
+                "date": "01.01.2020",
+                "file": "./assets/meetings/Zapisnica_c2.pdf"
+            },
+            {
+                "id": 3, 
+                "name": "Stretnutie 13", 
+                "date": "01.01.2020",
+                "file": "./assets/meetings/Zapisnica_c3.pdf"
+            },
+            {
+                "id": 4, 
+                "name": "Stretnutie 14", 
+                "date": "01.01.2020",
+                "file": "./assets/meetings/Zapisnica_c4.pdf"
+            },
+            {
+                "id": 5, 
+                "name": "Stretnutie 15", 
+                "date": "01.01.2020",
+                "file": "./assets/meetings/Zapisnica_c5.pdf"
+            },
+            {
+                "id": 6, 
+                "name": "Stretnutie 16", 
+                "date": "01.01.2020",
+                "file": "./assets/meetings/Zapisnica_c6.pdf"
+            },
+            {
+                "id": 7, 
+                "name": "Stretnutie 17", 
+                "date": "01.01.2020",
+                "file": "./assets/meetings/Zapisnica_c7.pdf"
+            },
+            {
+                "id": 8, 
+                "name": "Stretnutie 18", 
+                "date": "01.01.2020",
+                "file": "./assets/meetings/Zapisnica_c8.pdf"
+            }
+        ]
+    }
 }
