@@ -10,6 +10,8 @@ import { TeamComponent } from './components/landingpage/team/team.component';
 import { AboutComponent } from './components/landingpage/about/about.component';
 import { TechnologiesComponent } from './components/landingpage/technologies/technologies.component';
 import { ManagementComponent } from './components/landingpage/management/management.component';
+import { MeetingsComponent } from './components/landingpage/meetings/meetings.component';
+import { FooterComponent } from './components/navigation/footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +22,9 @@ import { ManagementComponent } from './components/landingpage/management/managem
     TeamComponent,
     AboutComponent,
     TechnologiesComponent,
-    ManagementComponent
+    ManagementComponent,
+    MeetingsComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,

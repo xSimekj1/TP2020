@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'web';
+  data = null;
+
+  constructor() {
+    this.data = require('../assets/data/data.json');
+    console.log(this.data);
+  }
 }

@@ -1,0 +1,62 @@
+{
+    "team": [
+        {
+            "id": 1, 
+            "name": "Jakub Šimek", 
+            "img": "./assets/img/profile/jakub.jpg", 
+            "position": "Team leader"
+        },{
+            "id": 2, 
+            "name": "Boris Hvozda", 
+            "img": "./assets/img/profile/boris.jpg", 
+            "position": "Frontend developer"
+        },{
+            "id": 3, 
+            "name": "Eduardo Martinez", 
+            "img": "./assets/img/profile/eduardo.jpg", 
+            "position": "Tester"
+        },{
+            "id": 4, 
+            "name": "Nikola Zarembova", 
+            "img": "./assets/img/profile/nikola.jpg", 
+            "position": "Software developer"
+        },{
+            "id": 5, 
+            "name": "Patricia Hulinova", 
+            "img": "./assets/img/profile/patricia.jpg", 
+            "position": "Software developer"
+        }
+    ],
+    "technologies": [
+        {
+            "id": 1, 
+            "name": "angular", 
+            "img": "./assets/img/technologies/angular.png"
+        },
+        {
+            "id": 2, 
+            "name": "netgrif", 
+            "img": "./assets/img/technologies/netgrif.png"
+        },
+        {
+            "id": 3, 
+            "name": "typescript", 
+            "img": "./assets/img/technologies/ts.png"
+        },
+        {
+            "id": 4, 
+            "name": "css3", 
+            "img": "./assets/img/technologies/css.png"
+        },
+        {
+            "id": 5, 
+            "name": "bootstrap", 
+            "img": "./assets/img/technologies/bootstrap.png"
+        },
+        {
+            "id": 6, 
+            "name": "html5", 
+            "img": "./assets/img/technologies/html.png"
+        }
+    ]
+}
