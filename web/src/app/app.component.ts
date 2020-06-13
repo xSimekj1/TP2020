@@ -6,7 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  require: any
   title = 'Team 19 - Rezervacny system';
   data = null;
 
