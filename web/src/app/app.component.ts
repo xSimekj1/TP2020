@@ -6,7 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'web';
+  require: any
+  title = 'Team 19 - Rezervacny system';
   data = null;
 
   constructor() {
